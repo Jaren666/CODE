@@ -1,0 +1,4 @@
+//git branch uat
+//git checkout -b test
+//git checkout uat
+//git branch -d test
